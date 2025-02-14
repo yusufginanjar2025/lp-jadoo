@@ -1,0 +1,92 @@
+
+.nav-link:hover {
+    color: rgb(218, 165, 8);
+}
+
+
+
+.jargon {
+    color: rgb(218, 165, 8);
+}
+
+.display-2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: rgb(25, 37, 105);
+}
+
+.btn-warning {
+    color: #FFF;
+    background: #e89f01;
+    border-radius: 8px;
+}
+
+#home {
+    background-image: url('../image/Decore.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: contain;
+    margin-top: 60px;
+}
+
+
+.h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-category {
+    border: none;
+    border-radius: 36px;
+    padding: 24px 6px;
+
+    transition: 0.3s;
+}
+
+.card-category:hover{
+    box-shadow: 0px 12px 8px rgba(0,   0, 0, 0.1);
+}
+
+.card-top-selling {
+    border: none;
+    overflow: hidden;
+    border-radius: 24px;
+    box-shadow: 0px 12px 8px rgba(0,   0, 0, 0.1);
+}
+
+.card-testimony {
+    border: none;
+    box-shadow: 0px 12px 8px rgba(0,   0, 0, 0.1);
+}
+
+.card-subscribe {
+    border: none;
+    box-shadow: 0px 12px 8px rgba(0,   0, 0, 0.1);
+}
+
+
+/* footer */
+footer {
+    background-color: rgb(10, 10, 43);
+    color: #FFF;
+    padding: 36px 0;
+}
+
+footer .list-group-item {
+    background:  rgb(10, 10, 43);
+    border: none;
+    color: #FFF;
+}
+
+footer .list-group-item:hover {
+    color:rgb(241, 152, 19);
+}
+
+footer a {
+    color: #FFF;
+}
+
+
+footer a:hover {
+    color:rgb(241, 152, 19);
+}
+
